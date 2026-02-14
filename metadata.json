@@ -1,0 +1,5 @@
+{
+  "name": "AutoProspect AI",
+  "description": "Une simulation de système IA multi-agents pour la prospection d'emploi automatisée, la rédaction de candidatures et l'optimisation de CV utilisant l'API Gemini.",
+  "requestFramePermissions": []
+}
